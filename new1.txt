@@ -1,1 +1,2 @@
 made new file to commmit and push into git repo .
+changes made in feature2
